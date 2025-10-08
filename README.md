@@ -1,0 +1,2 @@
+# chek-admin
+admin.com
